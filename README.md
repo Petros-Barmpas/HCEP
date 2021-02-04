@@ -1,0 +1,2 @@
+# bicUMAP
+Biscecting Hierarchical Clustering 
