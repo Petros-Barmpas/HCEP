@@ -14,7 +14,7 @@ scheme, while retaining prediction benefits. We propose a complete methodology t
 and the original concept. The results are very encouraging suggesting further developments in this direction along with 
 applications in tasks with similar characteristics. A straightforward open source implementation for the R project is provided.
 
-![] (https://github.com/Petros-Barmpas/bicUMAP/blob/master/output.png)
+![](https://github.com/Petros-Barmpas/bicUMAP/blob/master/output.png)
 *Clustering example procedure*
 
 ## Reference
