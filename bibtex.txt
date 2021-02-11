@@ -1,0 +1,8 @@
+@unknown{unknown,
+author = {Barmpas, Petros and Tasoulis, Sotiris and Vrahatis, Aristidis and Prina, Matthew and Ayuso-Mateos, José and Bickenbach, Jerome and Bayés, Ivet and Bobak, Martin and Caballero, Francisco Félix and Chatterji, Somnath and Egea-Cortés, Laia and Garcia-Esquinas, Esther and Leonardi, Matilde and Koskinen, Seppo and Koupil, Ilona and Pajak, Andrzej and Prince, Martin and Sanderson, Warren and Scherbov, Sergei and Panagiotakos, Demosthenes},
+year = {2021},
+month = {01},
+pages = {},
+title = {A Hybrid Machine Learning Framework for Enhancing the Prediction Power in Large Scale Population Studies: The ATHLOS Project},
+doi = {10.1101/2021.01.23.21250355}
+}
