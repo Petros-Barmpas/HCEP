@@ -1,5 +1,5 @@
 # HCEP
-Projection Based Hierarchical Clustering
+Hierarchical Clustering for Ensemble Prediction
 
 ## Introduction
 
@@ -18,7 +18,7 @@ applications in tasks with similar characteristics. A straightforward open sourc
 *Clustering example procedure*
 
 ## Reference
-If you use this code please reference the corresponding recently published article. 
+If you use this code please reference the corresponding article under review. 
 
 Barmpas, Petros & Tasoulis, Sotiris & Vrahatis, Aristidis & Prina, Matthew & Ayuso-Mateos, José & Bickenbach, Jerome & Bayés, Ivet & Bobak, Martin & Caballero, Francisco Félix & Chatterji,
  Somnath & Egea-Cortés, Laia & Garcia-Esquinas, Esther & Leonardi, Matilde & Koskinen, Seppo & Koupil, Ilona & Pajak, Andrzej & Prince, Martin & Sanderson, Warren & Scherbov, Sergei & Panagiotakos, 
