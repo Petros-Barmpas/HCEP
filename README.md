@@ -3,16 +3,7 @@ Hierarchical Clustering for Ensemble Prediction
 
 ## Introduction
 
-The ATHLOS cohort is composed of several harmonized datasets of international cohorts related to health and aging. 
-The healthy aging index has been constructed based on a selection of particular variables from 16 individual studies. 
-In this paper, we consider a selection of additional variables found in ATHLOS and investigate their utilization for 
-predicting the healthy aging index. For this purpose motivated by the volume and diversity of the dataset, we focus 
-our attention upon the clustering for prediction scheme, where unsupervised learning is utilized to enhance prediction 
-power, showing the predictive utility of exploiting structure in the data by clustering. We show that imposed computation 
-bottlenecks can be surpassed when using appropriate hierarchical clustering, within a clustering for ensemble classification 
-scheme, while retaining prediction benefits. We propose a complete methodology that is evaluated against baseline methods 
-and the original concept. The results are very encouraging suggesting further developments in this direction along with 
-applications in tasks with similar characteristics. A straightforward open source implementation for the R project is provided.
+Motivated by the volume and diversity of big heterogeneous datasets, we focus our attention upon the clustering for prediction scheme, where unsupervised learning is utilized to enhance prediction power, showing the predictive utility of exploiting structure in the data by clustering. We show that imposed computation bottlenecks can be surpassed when using appropriate hierarchical clustering, within a clustering for ensemble classification scheme, while retaining prediction benefits. We propose a complete methodology that is evaluated against baseline methods and the original concept. The results are very encouraging suggesting further developments in this direction along with applications in tasks with similar characteristics.
 
 ![](https://github.com/Petros-Barmpas/HCEP/blob/master/output.png)
 *Clustering example procedure*
