@@ -1,5 +1,5 @@
-# bicUMAP
-Biscecting Hierarchical Clustering 
+# HCEP
+Projection Based Hierarchical Clustering
 
 ## Introduction
 
